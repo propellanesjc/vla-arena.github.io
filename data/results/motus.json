@@ -1,5 +1,10 @@
 {
-  "name": "motus",
+  "name": "Motus",
+  "size": "8B",
+  "links": {
+    "paper": "https://arxiv.org/abs/2512.13030",
+    "huggingface": "https://huggingface.co/motus-robotics/Motus"
+  },
   "tasks": [
     {
       "name": "StaticObstacles",
