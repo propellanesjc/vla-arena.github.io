@@ -18,6 +18,7 @@
     "qwen3-vl-fast",
     "groot-n1.6",
     "lingbot-vla",
-    "motus"
+    "motus",
+    "evo-depth"
   ]
 }
